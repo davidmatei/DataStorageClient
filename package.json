@@ -37,7 +37,7 @@
     "vue"
   ],
   "dependencies": {
-    "@azure/storage-blob": "^12.11.0",
+    "@azure/storage-blob": "^12.12.0",
     "basic-ftp": "^5.0.2"
   }
 }
